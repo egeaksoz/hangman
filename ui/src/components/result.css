@@ -1,0 +1,16 @@
+.win {
+    display: inline-block;
+    background-color: green;
+    font-size: large;
+}
+
+.lose {
+    display: inline-block;
+    background-color: red;
+    font-size: large;
+}
+
+.correct {
+    color: black;
+    font-weight: bold;
+}
